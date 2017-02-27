@@ -18,7 +18,7 @@ Pages are stored under `/contents`. You can create new pages directly inside thi
 <footer>
   ...
 </footer>
-```con
+```
 
 Every page features a `<header>`. It includes the title of the page, a brief description (not mandatory) and the table of contents. The table of contents reflects the section titles of the page. The structure is like the following:
 
