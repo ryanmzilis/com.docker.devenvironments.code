@@ -1,5 +1,3 @@
-# How to use
-
 If you are a content creator follow this simple steps in order to maintain and update the FSD website.
 
 - [Page structure](#page-structure)

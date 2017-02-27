@@ -1,5 +1,3 @@
-# How it works
-
 ## Installation
 
 Install Node. If you use homebrew, do:
