@@ -4,6 +4,7 @@ If you are a content creator follow this simple steps in order to maintain and u
 - [Page header](#page-header)
 - [Page contents](#page-contents)
 - [Custom page components](#custom-page-components)
+- [Content linting](#content-linting)
 
 ## Page structure
 
@@ -98,3 +99,8 @@ As for all other contens links do not need any CSS class. Simply add an `a` elem
 ## Custom page components
 
 Sometimes you need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under the [How it works](#) page.
+
+## Content linting
+
+If you happen to see your text set in Comic Sans it means that you missed somthing. It could be a an `id` in your heading or a `<section>` around your contents.
+
