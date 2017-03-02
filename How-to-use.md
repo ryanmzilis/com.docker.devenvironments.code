@@ -17,9 +17,6 @@ Pages are stored under `/contents`. You can create new pages directly inside thi
 <section>
   ...
 </section>
-<footer>
-  ...
-</footer>
 ```
 
 ## Page header
