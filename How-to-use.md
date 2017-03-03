@@ -1,4 +1,4 @@
-If you are a content creator follow this simple steps in order to maintain and update the FSD website.
+If you are a content creator follow these simple steps in order to maintain and update the FDS website.
 
 - [Page structure](#page-structure)
 - [Page header](#page-header)
@@ -25,17 +25,14 @@ Every page features a `<header>`. It includes the title of the page, a brief des
 
 ```html
 <header>
-  <h1>Page title</h1>
+  <h1 id="page-title">Page title</h1>
   <p>Page description</p>
   <ul>
     <li>
-      <a href="#section-title-one">Section title one</a>
+      <a href="#section-title-a">Section title A</a>
     </li>
     <li>
-      <a href="#section-title-two">Section title two</a>
-    </li>
-    <li>
-      <a href="#section-title-three">Section title three</a>
+      <a href="#section-title-b">Section title B</a>
     </li>
   </ul>
 </header>
