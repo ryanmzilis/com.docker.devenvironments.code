@@ -90,6 +90,24 @@ As for all other contens links do not need any CSS class. Simply add an `a` elem
 </p>
 ```
 
+### Related
+
+If you want to point to links or resourses related to what you are writing about you can add a module with the `blockquote` tag.
+
+```html
+<blockquote>
+  <h4 id="related-title">Related title</h4>
+  <ul>
+    <li>
+      <a href="#!">Related link</a>
+    </li>
+    <li>
+      <a href="#!">Related resource</a>
+    </li>
+  </ul>
+</blockquote>
+```
+
 ## Custom page components
 
 Sometimes you need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under the [How it works](#) page.
