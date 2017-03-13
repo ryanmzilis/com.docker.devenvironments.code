@@ -3,8 +3,8 @@ If you are a content creator follow these simple steps in order to maintain and 
 - [Page structure](#page-structure)
 - [Page header](#page-header)
 - [Page contents](#page-contents)
+- [Layouts](#layouts)
 - [Custom page components](#custom-page-components)
-- [Content linting](#content-linting)
 
 ## Page structure
 
@@ -68,11 +68,11 @@ When you need to insert an image use the `<figure>` tag. If necessary you can al
 </section>
 ```
 
-Images are stored under `/images`. We organize images per pages. So every page has a folder where its images are saved. If you create a new page please also create a corrisponding folder in this directory.
+Images are stored under `/images`. We organize images per pages. So every page has a folder where its images are saved. If you create a new page please also create a corresponding folder in this directory.
 
 ### Links
 
-As for all other contens links do not need any CSS class. Simply add an `a` element with a `href` attribute.
+As for all other contents links do not need any CSS class. Simply add an `a` element with a `href` attribute.
 
 ```html
 <p>
@@ -82,7 +82,7 @@ As for all other contens links do not need any CSS class. Simply add an `a` elem
 
 ### Related
 
-If you want to point to links or resourses related to what you are writing about you can add a module with the `blockquote` tag.
+If you want to point to links or resources related to what you are writing about you can add a module with the `blockquote` tag.
 
 ```html
 <blockquote>
@@ -97,6 +97,21 @@ If you want to point to links or resourses related to what you are writing about
   </ul>
 </blockquote>
 ```
+
+## Layouts
+
+The default structure is one-column. If you need to layout contents on a two-column layout simply use the following markup. Each column is a `div` and then wrap the two columns in another `div`. That's it.
+
+```
+<div>
+  <div>
+    First column contents
+  </div>
+  <div>
+    Second column contents
+  </div>
+</div>
+``` 
 
 ## Custom page components
 
