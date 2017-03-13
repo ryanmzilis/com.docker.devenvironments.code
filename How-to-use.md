@@ -100,7 +100,7 @@ If you want to point to links or resources related to what you are writing about
 
 ## Layouts
 
-The default structure is one-column. If you need to layout contents on a two-column layout simply use the following markup. Each column is a `div` and then wrap the two columns in another `div`. That's it.
+The default structure is one-column. If you need to layout contents on a two-column structure simply use the following markup. Each column is a `div` and then wrap the two columns in another `div`. That's it.
 
 ```
 <div>
@@ -115,5 +115,5 @@ The default structure is one-column. If you need to layout contents on a two-col
 
 ## Custom page components
 
-Sometimes you need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under the [How it works](#) page.
+Sometimes you need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under the [How it works](https://github.com/bwinton/StyleGuide/wiki/How-it-works) page.
 
