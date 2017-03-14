@@ -51,11 +51,11 @@ Right after the header you can add your content. Every page section should be wr
 
 ### Headings
 
-Inside your sections follow the headings hierarchy as shown in the example above. You can use `h2`, `h3` and `h4`.
+Inside your sections follow the headings hierarchy as shown in the example above. You can use `h2`, `h3` and `h4`. A section always starts with an `h2`. 
 
 ### Images
 
-When you need to insert an image use the `<figure>` tag. If necessary you can also add a caption with `<figcaption>`.
+When you need to add an image use the `<figure>` tag. If necessary you can also add a caption with `<figcaption>`.
 
 ```html
 <section>
@@ -113,7 +113,7 @@ The default structure is one-column. If you need to layout contents on a two-col
 </div>
 ``` 
 
-## Custom page components
+## Custom page components (Coming soon)
 
-Sometimes you need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under the [How it works](https://github.com/bwinton/StyleGuide/wiki/How-it-works) page.
+Sometimes you may need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under [Developing](https://github.com/bwinton/StyleGuide/wiki/Developing#CSS) page.
 
