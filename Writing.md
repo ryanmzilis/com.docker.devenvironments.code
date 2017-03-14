@@ -4,7 +4,7 @@ If you are a content creator follow these simple steps in order to maintain and 
 - [Page header](#page-header)
 - [Page contents](#page-contents)
 - [Layouts](#layouts)
-- [Custom page components](#custom-page-components)
+- [Custom page components](#custom-page-components-coming-soon)
 
 ## Page structure
 
