@@ -115,5 +115,5 @@ The default structure is one-column. If you need to layout contents on a two-col
 
 ## Custom page components (Coming soon)
 
-Sometimes you may need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under [Developing](https://github.com/bwinton/StyleGuide/wiki/Developing#CSS) page.
+Sometimes you may need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under [Developing](https://github.com/bwinton/StyleGuide/wiki/Developing#css) page.
 
