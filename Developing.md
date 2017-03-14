@@ -10,7 +10,7 @@ Otherwise, you can download it from [nodejs.org](http://nodejs.org/download/). T
 
 ```bash
 $ git clone git@github.com:bwinton/StyleGuide.git
-$ cd path/to/Styleguide
+$ cd path/to/StyleGuide
 ```
 
 Finally install all node dependecies:
@@ -61,3 +61,7 @@ If the page is a second level page use the following code instead. Add as  many 
   ]
 }
 ```
+
+## CSS
+
+
