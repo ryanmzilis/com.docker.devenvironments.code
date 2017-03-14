@@ -1,3 +1,5 @@
+**Table of contents**
+
 * [Home](https://github.com/bwinton/StyleGuide/wiki/Home)
 * [Getting Started](https://github.com/bwinton/StyleGuide/wiki/Getting-Started)
 * [Developing](https://github.com/bwinton/StyleGuide/wiki/Developing)
