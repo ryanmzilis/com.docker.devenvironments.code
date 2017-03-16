@@ -3,7 +3,6 @@ If you are a content creator follow these simple steps in order to maintain and 
 - [Page structure](#page-structure)
 - [Page header](#page-header)
 - [Page contents](#page-contents)
-- [Layouts](#layouts)
 - [Custom page components](#custom-page-components-coming-soon)
 
 ## Page structure
@@ -97,21 +96,6 @@ If you want to point to links or resources related to what you are writing about
   </ul>
 </blockquote>
 ```
-
-## Layouts
-
-The default structure is one-column. If you need to layout contents on a two-column structure simply use the following markup. Each column is a `div` and then wrap the two columns in another `div`. That's it.
-
-```
-<div>
-  <div>
-    First column contents
-  </div>
-  <div>
-    Second column contents
-  </div>
-</div>
-``` 
 
 ## Custom page components (Coming soon)
 
