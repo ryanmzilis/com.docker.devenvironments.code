@@ -1,3 +1,1 @@
-Clone the repository locally.
-
-Create a pull request.
+The first step as a contributor is to fork this repository. If you are a developer make sure to check the [developing guidelines](https://github.com/bwinton/StyleGuide/wiki/Developing) before filing a pull request. Same thing if you are an editor or a content creator, check the [writing guidelines](https://github.com/bwinton/StyleGuide/wiki/Writing).
