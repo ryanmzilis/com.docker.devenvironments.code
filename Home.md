@@ -14,7 +14,7 @@ If you come across an interaction that requires a modification of any component 
 
 ## For Developers
 
-Can consolidate this website for any questions on detailed implementation of specified components.
+Can consolidate the Firefox Design System for any questions on detailed implementation of specified components.
 
 Use it as a source for any specifics to rely on that are unclear to you through the mockup of a designer, and if in doubt fall back to an implementation as described here.
 
