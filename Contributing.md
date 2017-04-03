@@ -2,7 +2,7 @@ This page gives you all the necessary information in order to contribute to the 
 
 ## Clone the repository
 
-The first step as a contributor is to either clone or fork this repository. If you are part of the Firefox Design System team simply clone it. If you are an external contributor first fork the repository to your account and then clone it. Full instruction available on the [getting started page](https://github.com/bwinton/StyleGuide/wiki/Developing).
+The first step as a contributor is to either [clone or fork the repository](https://github.com/bwinton/StyleGuide). If you are part of the Firefox Design System team simply clone it. If you are an external contributor first fork the repository to your account and then clone it. Full instruction available on the [getting started page](https://github.com/bwinton/StyleGuide/wiki/Developing).
 
 If you are a developer make sure to check the [developing guidelines](https://github.com/bwinton/StyleGuide/wiki/Developing) before filing a pull request. Same thing if you are an editor or a content creator, check the [writing guidelines](https://github.com/bwinton/StyleGuide/wiki/Writing).
 
