@@ -1,4 +1,4 @@
-This page will gives you all the necessary information to contribute to the Firefox Design System.
+This page gives you all the necessary information in order to contribute to the Firefox Design System.
 
 ## Clone the repository
 
