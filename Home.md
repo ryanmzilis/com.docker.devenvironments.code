@@ -1,3 +1,5 @@
+Launch recognizable, enjoyable Firefox products & features faster.
+
 ## What is Firefox Design System?
 
 The Firefox Design System provides a centralized, living source for look, feel and sound of our products to create consistent user interfaces across all Firefox products.
