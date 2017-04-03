@@ -8,9 +8,9 @@ The Firefox Design System provides a centralized, living source for look, feel a
 
 Familiarize yourself with the style, motion, copy and interaction principles defined in this Design System and build your interfaces using UI components specified here.
 
-You may use the templates and assets provided here to make your work more efficient so you don’t need to worry about re-creating existing components.
+We make it simple to contribute to a coherently designed Firefox experience thanks to resources and templates.
 
-If you come across an interaction that requires a modification of any component specified here, or you require new type of component, please reach out to us so that we may include it in the Design System. 
+If you come across an interaction or component that requires a modification, or if you require new type of component, please [reach out to us](https://github.com/bwinton/StyleGuide/issues/new) so that we may include it in the Design System.
 
 ## For Developers
 
