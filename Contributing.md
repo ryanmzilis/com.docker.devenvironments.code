@@ -36,4 +36,4 @@ Add an assignee as a responsible person for merging the pull request. Current as
 
 ### Labels
 
-Add a `needs: editorial` label if you need an editor to check your changes. Editing changes are non-blocking for the merge of the pull request. Add a `needs: visual` label if you need visual assets for your changes, also visual changes are non-blocking. Make sure to Cc TLHuang in your pull request description in order to help her understand what visual assets you may need.
+Always add a `needs: editorial` label so that editors know that there is new content to be checked. Editing changes are non-blocking for the merge of the pull request. Add a `needs: visual` label if you need visual assets for your changes, also visual changes are non-blocking. Make sure to Cc TLHuang in your pull request description in order to help her understand what visual assets you may need.
