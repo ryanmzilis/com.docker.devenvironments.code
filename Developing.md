@@ -1,4 +1,4 @@
-The following information should give you a first introduction at how the Firefox Design System is build and developed.
+The following information should give you a first introduction at how the Firefox Design System is built and developed.
 
 ## Table of contents
 
