@@ -6,7 +6,7 @@ The Firefox Design System provides a centralized, living source for look, feel a
 
 ## For Designers
 
-Familiarize yourself with the style, motion, copy and interaction principles defined in this Design System and build your interfaces using ui components specified here.
+Familiarize yourself with the style, motion, copy and interaction principles defined in this Design System and build your interfaces using UI components specified here.
 
 You may use the templates and assets provided here to make your work more efficient so you don’t need to worry about re-creating existing components.
 
