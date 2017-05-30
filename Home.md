@@ -1,6 +1,6 @@
 Launch recognizable, enjoyable Firefox products & features faster.
 
-## What is Firefox Design System?
+## What is Photon Design System?
 
 The Firefox Design System provides a centralized, living source for look, feel and sound of our products to create consistent user interfaces across all Firefox products.
 
@@ -14,7 +14,7 @@ If you come across an interaction or component that requires a modification, or 
 
 ## For Developers
 
-Can consolidate the Firefox Design System for any questions on detailed implementation of specified components.
+Can consolidate the Photon Design System for any questions on detailed implementation of specified components.
 
 Use it as a source for any specifics to rely on that are unclear to you through the mockup of a designer, and if in doubt fall back to an implementation as described here.
 
