@@ -1,4 +1,4 @@
-If you are a content creator follow these simple steps in order to maintain and update the FDS website.
+If you are a content creator follow these simple steps in order to maintain and update the Photon Design System website.
 
 - [Page structure](#page-structure)
 - [Page header](#page-header)
@@ -97,7 +97,7 @@ If you want to point to links or resources related to what you are writing about
 </blockquote>
 ```
 
-## Custom page components (Coming soon)
+## Custom page components
 
-Sometimes you may need components that are more complex than bodies of text or images. You can create them under the `/shared` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under [Developing](https://github.com/bwinton/StyleGuide/wiki/Developing#css) page.
+Sometimes you may need components that are more complex than bodies of text or images. You can create them under the `/includes` folder. These components are built with HTML and CSS and can include CSS classes. Make sure to check the CSS guidelines under [Developing](https://github.com/firefoxux/photon/wiki/Developing#css) page.
 
