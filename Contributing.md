@@ -1,10 +1,10 @@
-This page gives you all the necessary information in order to contribute to the Firefox Design System.
+This page gives you all the necessary information in order to contribute to the Photon Design System.
 
 ## Clone the repository
 
-The first step as a contributor is to either [clone or fork the repository](https://github.com/bwinton/StyleGuide). If you are part of the Firefox Design System team simply clone it. If you are an external contributor first fork the repository to your account and then clone it. Full instructions available on the [getting started page](https://github.com/bwinton/StyleGuide/wiki/Developing).
+The first step as a contributor is to either [clone or fork the repository](https://github.com/firefoxux/photon). If you are part of the Photon Design System team simply clone it. If you are an external contributor first fork the repository to your account and then clone it. Full instructions available on the [getting started page](https://github.com/firefoxux/photon/wiki/Developing).
 
-If you are a developer make sure to check the [developing guidelines](https://github.com/bwinton/StyleGuide/wiki/Developing) before filing a pull request. Same thing if you are an editor or a content creator, check the [writing guidelines](https://github.com/bwinton/StyleGuide/wiki/Writing).
+If you are a developer make sure to check the [developing guidelines](https://github.com/firefoxux/photon/wiki/Developing) before filing a pull request. Same thing if you are an editor or a content creator, check the [writing guidelines](https://github.com/firefoxux/photon/wiki/Writing).
 
 ## Create a branch
 
@@ -18,9 +18,9 @@ If you use the GitHub Desktop app follow [these simple steps](https://help.githu
 
 ## Create a pull request
 
-Once you are happy with the changes create a pull request in order to publish them online. You can create pull requests from Terminal.app or the GitHub Desktop app thou the [GitHub web interface](https://github.com/bwinton/StyleGuide/compare/master...) gives you a great experience, highly recommended!
+Once you are happy with the changes create a pull request in order to publish them online. You can create pull requests from Terminal.app or the GitHub Desktop app thou the [GitHub web interface](https://github.com/firefoxux/photon/compare/master...) gives you a great experience, highly recommended!
 
-At the moment of writing our master branch is `bwinton/master`, make sure that this base is selected when you create a pull request. As a compare branch select the branch that you created before starting to contribute.
+At the moment of writing our master branch is `firefoxux/master`, make sure that this base is selected when you create a pull request. As a compare branch select the branch that you created before starting to contribute.
 
 ### Title and description
 
@@ -30,9 +30,9 @@ When you create a pull request give it a title and a brief description that expl
 
 Add a reviewer from the Design System team. Reviewers help us double-check changes that we intend to publish. Current reviewers are: aminalhazwani, brassy, bwinton, designakt, ericawright, FlyTori, pwalm, tinahsieh and TLHuang.
 
-### Assignees
+### Assignee
 
-Add an assignee as a responsible person for merging the pull request. Current assignees are aminalhazwani for content changes. For development changes bwinton or ericawright. 
+Add an assignee as a responsible person for merging the pull request. Current assignee are aminalhazwani for content changes. For development changes bwinton or ericawright. 
 
 ### Labels
 
