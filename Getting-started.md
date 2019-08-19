@@ -1,3 +1,5 @@
+**THIS PAGE IT'S OUTDATED. **
+
 If you ended up here you probably want to update or contribute to the Firefox Design System website, very good! This wiki should give you all the necessary instructions in order to run this website locally or create, edit and publish new pages.
 
 First things first! If you don't have this website running locally read the following instructions in order to do so.
